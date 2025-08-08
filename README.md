@@ -43,7 +43,6 @@ Python es ideal para este proyecto porque permite aplicar conceptos de lógica d
       repetir = input("¿Generar otra contraseña? (s/n): ")
       if repetir != 's':
           break
-
-  Nota: Estos conceptos básicos forman la base lógica del sistema.
+# Nota:  Estos conceptos básicos forman la base lógica del sistema.
   
   
