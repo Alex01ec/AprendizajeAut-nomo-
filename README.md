@@ -34,15 +34,15 @@ Python es ideal para este proyecto porque permite aplicar conceptos de lógica d
   if not caracteres:
     return "Error: Debes seleccionar al menos un tipo de carácter."
 # Estructuras Repetitivas
-  Se usa un bucle for para construir la contraseña aleatoria:
-  contraseña = ''.join(random.choice(caracteres) for _ in range(longitud))
-  Este bucle se repite longitud veces y selecciona un carácter al azar en cada iteración.
-  También se puede usar un while si se deseamos permitir que el usuario genere varias contraseñas:
-  while True:
-      menu()
-      repetir = input("¿Generar otra contraseña? (s/n): ")
-      if repetir != 's':
-          break
+  En este proyecto, la estructura repetitiva while se utiliza para permitir que el usuario genere varias contraseñas sin necesidad de reiniciar el programa manualmente.
+  Cómo funciona:
+  El while True crea un bucle infinito que mantiene activo el menú principal.
+  Dentro del bucle, el programa solicita la longitud y el tipo de caracteres deseados para la contraseña.
+  Una vez generada y mostrada la contraseña, se pregunta al usuario si desea generar otra.
+  Si responde 's', el bucle continúa y se reinicia el proceso.
+  Si responde cualquier otra cosa, se utiliza la instrucción break para salir del bucle y finalizar el programa.
+
+          
 # Nota:  Estos conceptos básicos forman la base lógica del sistema.
   
   
