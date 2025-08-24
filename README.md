@@ -43,6 +43,7 @@ python generador.py
 Ejemplo de interacción en consola:
 
 === Generador Seguro de Contraseñas ===
+
     Ingresa la longitud de la contraseña: 12
     ¿Incluir mayúsculas? (s/n): s
     ¿Incluir minúsculas? (s/n): s
