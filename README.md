@@ -66,6 +66,7 @@ Tupla → Para validar respuestas s/n.
   - menu() → Controla el flujo del programa.
 
 *Objetivo*
+
 Este proyecto fue desarrollado como parte de la asignatura Lógica de Programación en la Universidad Internacional del Ecuador.
 Permite aplicar conceptos como:
 - Estructuras lógicas (if, else)
