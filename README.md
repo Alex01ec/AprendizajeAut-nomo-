@@ -25,13 +25,7 @@ Validaciones de entrada y menú interactivo.
 Instalar la librería con:
 pip install pyperclip
 
-*Ejecución*
 
-Clona este repositorio y ejecuta el archivo principal:
-
-git clone https://github.com/tu-usuario/Generador-Contraseñas.git
-cd Generador-Contraseñas
-python generador.py
 
 *Uso*
   1. Ingresa la longitud de la contraseña.
@@ -43,15 +37,14 @@ python generador.py
 Ejemplo de interacción en consola:
 
 === Generador Seguro de Contraseñas ===
+    Ingresa la longitud de la contraseña: 12
+    ¿Incluir mayúsculas? (s/n): s
+    ¿Incluir minúsculas? (s/n): s
+    ¿Incluir números? (s/n): s
+    ¿Incluir caracteres especiales? (s/n): n
 
-Ingresa la longitud de la contraseña: 12
-¿Incluir mayúsculas? (s/n): s
-¿Incluir minúsculas? (s/n): s
-¿Incluir números? (s/n): s
-¿Incluir caracteres especiales? (s/n): n
-
-Contraseña generada: Ab7fKe9LmPqR
-¡Contraseña copiada al portapapeles!
+    Contraseña generada: Ab7fKe9LmPqR
+    ¡Contraseña copiada al portapapeles!
 
 
 
