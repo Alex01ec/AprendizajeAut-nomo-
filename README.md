@@ -41,7 +41,9 @@ python generador.py
   5. Repite el proceso si deseas generar más contraseñas.
 
 Ejemplo de interacción en consola:
+
 === Generador Seguro de Contraseñas ===
+
 Ingresa la longitud de la contraseña: 12
 ¿Incluir mayúsculas? (s/n): s
 ¿Incluir minúsculas? (s/n): s
