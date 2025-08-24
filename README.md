@@ -8,7 +8,7 @@ Además, guarda un historial de las contraseñas generadas durante la sesión.
 
 Generación de contraseñas seguras con:
 
-  -Letras mayúsculas (A-Z)
+  - Letras mayúsculas (A-Z)
   - Letras minúsculas (a-z)
   - Números (0-9)
   - Caracteres especiales (@, #, $, %, etc.)
