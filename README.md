@@ -48,8 +48,7 @@ Ejemplo de interacción en consola:
     ¿Incluir minúsculas? (s/n): s
     ¿Incluir números? (s/n): s
     ¿Incluir caracteres especiales? (s/n): n
-    
-     Contraseña generada: Ab7fKe9LmPqR
+      Contraseña generada: Ab7fKe9LmPqR
      ¡Contraseña copiada al portapapeles!
 
 
